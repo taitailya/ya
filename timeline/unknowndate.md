@@ -2,7 +2,6 @@
 
 [杨平某饭店](https://weibo.com/3965220781/IzYGYCQ6s)          
 [某餐厅的留影](https://weibo.com/6493535909/IDj967lY9)      
-[某餐厅红围裙女士合照](https://weibo.com/6493535909/Jn39Q7N7I)        
 [李英爱水果衫照](https://weibo.com/3965220781/J04WFA98o)           
 [金喜爱、李英爱](https://weibo.com/3965220781/JaAUXtag9)        
 [金喜爱、李英爱，客机合照](https://weibo.com/6493535909/JjI9Dnsl0)            
