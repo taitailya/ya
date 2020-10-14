@@ -1,1 +1,1 @@
-* [《爱人们的故事》韩语中字](http://op.sbb.zone:8888/share/NwROohNW)           
+* [《爱人们的故事》韩语中字共2.88GB](http://op.sbb.zone:8889/index.php?explorer/share/file&hash=737ePdrYK06oktxETwy8gkSwgAuv1J5in5HWG8Rj9zTTJnt2hFTttjA5Sd72AQd7TuObA5KPVNg8R7auP6hE0oEK8GkdcGEFkfHwvT464yMg0r-kNQ3c2aypp4-6DBXaUHGl6g&name=%E3%80%8A%E7%88%B1%E4%BA%BA%E4%BB%AC%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%8B%E9%9F%A9%E8%AF%AD%E4%B8%AD%E5%AD%97%E5%85%B12.88GB.7z)                                 

@@ -1,1 +1,1 @@
-* [《师任堂》韩语中字](http://op.sbb.zone:8888/share/OIfu0bJV)           
+* [《师任堂》韩语中字共14.4GB](http://op.sbb.zone:8889/index.php?explorer/share/file&hash=ab53l7GWJnOrNrQ9ZUR0GE8WcoEKGb1wtVngR_afQFEkMidjaByEu7OOJWt2V-CwxlG2Fn1ZtHQ7db--afIRJPrxIirc20emboOOIQenM9VxKisX0r5ByMBZdQ&name=%E3%80%8A%E5%B8%88%E4%BB%BB%E5%A0%82%E3%80%8B%E9%9F%A9%E8%AF%AD%E4%B8%AD%E5%AD%97%E5%85%B114.4GB.7z)                      
