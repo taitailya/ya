@@ -1,1 +1,1 @@
-* [《大长今》韩语繁体中字1080p共76.21GB](http://op.sbb.zone:8889/index.php?explorer/share/file&hash=72a7Jw3WpS93edG9sEbJTWreSqxlmXbJgm-IdbbpoLIhqNMyPYMaYvq3W1bUCJa9s3QE3aQUi0OiehrP5EEXQBpekbnCmHwLTnRFSN1xT5PozhSRblMy_QQDSb3m6SiGNSS5kxLD1uE&name=%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E9%9F%A9%E8%AF%AD%E7%B9%81%E4%BD%93%E4%B8%AD%E5%AD%971080p%E5%85%B176.21GB.rar)                                         
+* [《大长今》韩语繁体中字1080p共76.21GB](http://op.sbb.zone:8889/#s/6TrY7V5Q)                                         
