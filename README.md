@@ -7,6 +7,10 @@
 
 <iframe width="100%" height="400" src="http://op.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=AeuEcXUv&amp;path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+<video width="100%" height="400" controls>
+       <source src="http://op.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=AeuEcXUv&amp;path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" type="video/mp4">
+</video>
+
 ↑李英爱时隔14年重返大银幕作品《请寻找我》。影片是一部犯罪惊悚题材新片，由金承佑执导，李英爱将在片中饰演一位为寻找走失的残障儿子辛苦奔波的母亲。本片于2019年11月27日韩国首映。          
 
 -----------------------------------------------------------------------------------------------------------------------------------
