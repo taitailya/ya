@@ -1,16 +1,5 @@
 ![](http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=PARjUId3)            
 
---------------------------------------------------------------------------------------------------------------------------------         
-[^_^]: # (<iframe width="100%" height="400" controls src="//player.bilibili.com/player.html?aid=74874613&amp;cid=128080690&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>)         
-
-[^_^]: # (↑李英爱时隔14年重返大银幕作品《请寻找我》预告片。影片是一部犯罪惊悚题材新片，由金承佑执导，李英爱将在片中饰演一位为寻找走失的残障儿子辛苦奔波的母亲。本片于2019年11月27日韩国首映。)   
-
-<video width="100%" height="400" controls>
-       <source src="http://op.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=AeuEcXUv&amp;path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" type="video/mp4">
-</video>
-
-↑李英爱时隔14年重返大银幕作品《请寻找我》。影片是一部犯罪惊悚题材新片，由金承佑执导，李英爱将在片中饰演一位为寻找走失的残障儿子辛苦奔波的母亲。本片于2019年11月27日韩国首映。          
-
 -----------------------------------------------------------------------------------------------------------------------------------
 * [李英爱影视剧在线观看地址长期整理(请先保持浏览器的微博登录状态)](https://weibo.com/6493535909/Jh7W9exVL)                                 
 * [李英爱影视剧下载地址长期整理](./DL.md)            
@@ -53,7 +42,14 @@
 **李英爱粉丝群**（本页面下的动态失效、页面错误、内容有误、建议添加动态等都可以加群反馈，只是闲聊的也可以加群）            
 
 * [微博群，李英爱粉丝1群（以交流为主）](http://t.cn/AiHJwHKv)               
-* [QQ群，847088042，李英爱粉丝1群(以上传分享文件为主) ](https://shang.qq.com/wpa/qunwpa?idkey=9f97d83971bece998d8f73581ece4b1eb9b1d944ca60e969a6dc02a3499c5c4a)           
+* [QQ群，847088042，李英爱粉丝1群(以上传分享文件为主) ](https://shang.qq.com/wpa/qunwpa?idkey=9f97d83971bece998d8f73581ece4b1eb9b1d944ca60e969a6dc02a3499c5c4a)       
+--------------------------------------------------------------------------------------------------------------------------------
+<video width="100%" height="400" controls>
+       <source src="http://op.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=AeuEcXUv&amp;path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" type="video/mp4">
+</video>
+
+↑李英爱时隔14年重返大银幕作品《请寻找我》。影片是一部犯罪惊悚题材新片，由金承佑执导，李英爱将在片中饰演一位为寻找走失的残障儿子辛苦奔波的母亲。本片于2019年11月27日韩国首映。          
+
         
                        
 
