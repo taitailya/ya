@@ -1,4 +1,10 @@
-![](http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=PARjUId3)            
+<p>
+背景音乐（您可以点击暂停按钮暂停音乐）<br>
+<audio id="bgAudio" src="http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=KZFkjpBx&path=%7BuserShare%7D%3A1%2F%EB%B0%B1%EB%B3%B4%ED%98%84%20-%20%EC%97%B0%EB%8F%84.mp3" preload="auto" autoplay="autoplay" loop="loop" controls="controls"><br>
+你的浏览器不支持背景音乐，请更换浏览器！<br></audio><br><!--设置背景音乐音量--><br><script>document.getElementById("bgAudio").volume = 1.0;</script>
+</p>
+
+![](http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=af9wnkPU)                      
 
 -----------------------------------------------------------------------------------------------------------------------------------
 * [李英爱影视剧在线观看地址长期整理(请先保持浏览器的微博登录状态)](https://weibo.com/6493535909/Jh7W9exVL)                                 
@@ -45,7 +51,7 @@
 * [QQ群，847088042，李英爱粉丝1群(以上传分享文件为主) ](https://shang.qq.com/wpa/qunwpa?idkey=9f97d83971bece998d8f73581ece4b1eb9b1d944ca60e969a6dc02a3499c5c4a)       
 --------------------------------------------------------------------------------------------------------------------------------
 <video width="100%" height="400" controls>
-       <source src="http://op.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=AeuEcXUv&amp;path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" type="video/mp4">
+       <source src="http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=qUIt9XGw&path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" type="video/mp4">
 </video>
 
 ↑李英爱时隔14年重返大银幕作品《请寻找我》。影片是一部犯罪惊悚题材新片，由金承佑执导，李英爱将在片中饰演一位为寻找走失的残障儿子辛苦奔波的母亲。本片于2019年11月27日韩国首映。          
