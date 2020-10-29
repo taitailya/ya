@@ -1,3 +1,5 @@
+by非官方李英爱中国粉丝团 
+
 <p>
 背景音乐（您可以点击暂停按钮暂停音乐）<br>
 <audio id="bgAudio" src="http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=KZFkjpBx&path=%7BuserShare%7D%3A1%2F%EB%B0%B1%EB%B3%B4%ED%98%84%20-%20%EC%97%B0%EB%8F%84.mp3" preload="auto" autoplay="autoplay" loop="loop" controls="controls"><br>
