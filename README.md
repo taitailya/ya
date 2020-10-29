@@ -18,7 +18,7 @@ by非官方李英爱中国粉丝团
 [2020](./timeline/2020.md) [2019](./timeline/2019.md) [2018](./timeline/2018.md) [2017](./timeline/2017.md) [2016](./timeline/2016.md) [2015](./timeline/2015.md) [2014](./timeline/2014.md) [2013](./timeline/2013.md) [2012](./timeline/2012.md) [2011](./timeline/2011.md)
 [2010](./timeline/2010.md) [2009](./timeline/2009.md) [2008](./timeline/2008.md) [2007](./timeline/2007.md) [2006](./timeline/2006.md)
 [2005](./timeline/2005.md) [2004](./timeline/2004.md) [2003](./timeline/2003.md) [2002](./timeline/2002.md) [2001](./timeline/2001.md)
-[2000](./timeline/2000.md) [1999](./timeline/1999.md) [1998](./timeline/1998.md) [1997](./timeline/1997.md) [1996](./timeline/1996.md)[1995](./timeline/1995.md) [1994](./timeline/1994.md) [1993](./timeline/1993.md) [1992](./timeline/1992.md) [1991](./timeline/1991.md)   
+[2000](./timeline/2000.md) [1999](./timeline/1999.md) [1998](./timeline/1998.md) [1997](./timeline/1997.md) [1996](./timeline/1996.md) [1995](./timeline/1995.md) [1994](./timeline/1994.md) [1993](./timeline/1993.md) [1992](./timeline/1992.md) [1991](./timeline/1991.md)   
 
 ---------------------------------------------------------------------------------------------------------------------------------      
 **李英爱官方账号**             
