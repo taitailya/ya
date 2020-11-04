@@ -6,7 +6,7 @@ by非官方李英爱中国粉丝团
 你的浏览器不支持背景音乐，请更换浏览器！<br></audio><br><!--设置背景音乐音量--><br><script>document.getElementById("bgAudio").volume = 1.0;</script>
 </p>
 
-![](http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=af9wnkPU)                      
+![](http://nas.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=af9wnkPU)                      
 
 -----------------------------------------------------------------------------------------------------------------------------------
 * [李英爱影视剧在线观看地址长期整理(请先保持浏览器的微博登录状态)](https://weibo.com/6493535909/Jh7W9exVL)                                 
