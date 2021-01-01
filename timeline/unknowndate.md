@@ -7,3 +7,5 @@
 * [金喜爱、李英爱，客机合照](https://weibo.com/6493535909/JjI9Dnsl0)     
 * [mbc某典礼](https://weibo.com/6493535909/JqHJxCKFs)     
 * [背后有牛图片](https://weibo.com/6493535909/JytIprWmy)          
+* [海报拍摄，春逝前后](https://weibo.com/6493535909/JBcNXppEa)        
+* [街头主持,红衣](https://weibo.com/6493535909/JBcN4rH92)                       
