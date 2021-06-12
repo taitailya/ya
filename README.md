@@ -1,65 +1,62 @@
-by非官方李英爱中国粉丝团 
+<p>背景音乐（您可以点击暂停按钮暂停音乐）<br><audio id="bgAudio" src="http://nas.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=Gc3g9QzS&amp;path=%7BuserShare%7D%3A1%2F%EB%B0%B1%EB%B3%B4%ED%98%84%20-%20%EC%97%B0%EB%8F%84.mp3" preload="auto" autoplay="autoplay" loop="loop" controls="controls"><br>
+你的浏览器不支持背景音乐，请更换浏览器！<br></audio><br><!--设置背景音乐音量--><br><script>document.getElementById("bgAudio").volume = 1.0;</script></p>
+<p><img src="http://nas.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=X6VcrKQG"></p>
+<p><video width="100%" height="400" controls="controls" loop="loop"><source src="http://nas.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=Q59KSeGk&amp;path=%7BuserShare%7D%3A1%2F%5B%E9%AB%98%E6%B8%85%201080P%2B%5D%20%E3%80%90%E9%9F%A9%E5%9B%BD%E7%BA%AF%E5%A4%A9%E7%84%B6%E7%A5%9E%E9%A2%9C%E3%80%91%E6%B0%A7%E6%B0%94%E7%BE%8E%E5%A5%B3%E6%9D%8E%E8%8B%B1%E7%88%B1%E4%BD%9C%E5%93%81%E6%B7%B7%E5%89%AA%E4%B8%A8%E5%A7%90%E5%A7%90%E6%97%A2%E5%8F%AF%E5%A6%96%E8%89%B3%E8%B4%B1%E8%B4%A7%E4%B9%9F%E5%8F%AF%E6%A5%9A%E6%A5%9A%E5%8A%A8%E4%BA%BA_P1_%E3%80%90%E9%9F%A9%E5%9B%BD%E7%BA%AF%E5%A4%A9%E7%84%B6%E7%A5%9E%E9%A2%9C%E3%80%91%E6%B0%A7%E6%B0%94%E7%BE%8E%E5%A5%B3%E6%9D%8E%E8%8B%B1%E7%88%B1%E4%BD%9C%E5%93%81%E6%B7%B7%E5%89%AA%E4%B8%A8%E5%A7%90%E5%A7%90%E6%97%A2%E5%8F%AF%E5%A6%96%E8%89%B3%E8%B4%B1%E8%B4%A7%E4%B9%9F%E5%8F%AF%E6%A5%9A%E6%A5%9A%E5%8A%A8%E4%BA%BA.mp4" type="video/mp4"></video></p>
+<p><video width="100%" height="400" controls="controls" loop="loop"><source src="http://nas.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=ZiV5mYNR&amp;path=%7BuserShare%7D%3A1%2F%E5%A4%A7%E9%95%BF%E4%BB%8A%E5%90%8D%E5%9C%BA%E9%9D%A21.mp4" type="video/mp4"></video></p>
+<p><video width="100%" height="400" controls="controls" loop="loop"><source src="http://nas.sbb.zone:8889/index.php?share/fileProxy&amp;user=1&amp;sid=jigNPQxY&amp;path=%7BuserShare%7D%3A1%2F%E5%A4%A7%E9%95%BF%E4%BB%8A%E5%90%8D%E5%9C%BA%E9%9D%A22.mp4" type="video/mp4"></video></p>
 
+<!-- wp:list -->
+<ul><li><a href="https://weibo.com/6493535909/Jh7W9exVL">李英爱影视剧在线观看地址长期整理(请先保持浏览器的微博登录状态)</a></li><li><a href="http://lya.sbb.zone:8890/index.php/%e4%b8%8b%e8%bd%bd%e9%a1%b5/">李英爱影视剧下载或在线地址长期整理</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>李英爱的时光线</strong>（以下链接以外链贴吧、微博页面为主，强烈建议PC浏览器访问，并且提前登录且保持好贴吧、微博的登录状态）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="http://lya.sbb.zone:8890/index.php/%e6%97%b6%e9%97%b4%e7%ba%bf/">时间线</a></li><li><a href="http://lya.sbb.zone:8890/index.php/%e6%9a%82%e6%97%b6%e6%9c%aa%e7%9f%a5%e6%97%a5%e6%9c%9f/">暂时未知日期资讯</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>李英爱官方账号</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>instagram：<a href="https://www.instagram.com/Leeyoungae0824">leeyoungae0824</a></li><li>微博：<a href="https://weibo.com/u/7214188677">李英爱LeeYoungAe</a></li><li>小红书：<a href="https://www.xiaohongshu.com/user/profile/5ba9d9ebabb1890001b20257">李英爱Lee YoungAe</a></li><li>李英爱自有品牌官网：<a href="http://www.lya.co.kr/">LEE YOUNG AE pure botanic skincare</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>李英爱粉丝团资讯发布</strong>（微博下，发布的资讯最丰富，爱迷互动最多）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>关注微博：<a href="https://weibo.com/leeyoungaeclub">李英爱资讯台</a></li><li>关注Bilibili：<a href="http://space.bilibili.com/45084449">李英爱资讯台</a></li><li>关注微信公众号：时越之爱</li><li>关注贴吧：<a href="https://tieba.baidu.com/f?kw=%E6%9D%8E%E8%8B%B1%E7%88%B1">李英爱吧</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>李英爱网络参考资讯</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="https://movie.douban.com/celebrity/1004933/">豆瓣-李英爱</a></li><li><a href="https://weibo.com/ttarticle/p/show?id=2309404382821119581495">“时越之爱”存档资料</a></li><li><a href="https://people.search.naver.com/search.naver?where=nexearch&amp;sm=tab_ppn&amp;query=%EC%9D%B4%EC%98%81%EC%95%A0&amp;os=94803&amp;ie=utf8&amp;key=PeopleService">李英爱的Naver百科</a></li><li><a href="https://baike.baidu.com/item/%E6%9D%8E%E8%8B%B1%E7%88%B1/160659?fr=aladdin">李英爱的百度百科</a></li><li><a href="http://people.mtime.com/960791/">时光网-李英爱</a></li><li><a href="https://www.imdb.com/name/nm0498472/">IMDb-李英爱</a></li><li><a href="https://movie.daum.net/person/main?personId=563">daum电影-李英爱</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>李英爱粉丝群</strong>（本页面下的动态失效、页面错误、内容有误、建议添加动态等都可以加群反馈，只是闲聊的也可以加群）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="http://t.cn/AiHJwHKv">微博群，李英爱粉丝1群（以交流为主）</a></li><li><a href="https://shang.qq.com/wpa/qunwpa?idkey=9f97d83971bece998d8f73581ece4b1eb9b1d944ca60e969a6dc02a3499c5c4a">QQ群，847088042，李英爱粉丝1群(以上传分享文件为主)</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
 <p>
-背景音乐（您可以点击暂停按钮暂停音乐）<br>
-<audio id="bgAudio" src="http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=KZFkjpBx&path=%7BuserShare%7D%3A1%2F%EB%B0%B1%EB%B3%B4%ED%98%84%20-%20%EC%97%B0%EB%8F%84.mp3" preload="auto" autoplay="autoplay" loop="loop" controls="controls"><br>
-你的浏览器不支持背景音乐，请更换浏览器！<br></audio><br><!--设置背景音乐音量--><br><script>document.getElementById("bgAudio").volume = 1.0;</script>
+<iframe width="100%" height="800" class="share_self" frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&amp;width=0&amp;height=800&amp;fansRow=7&amp;ptype=1&amp;speed=0&amp;skin=10&amp;isTitle=1&amp;noborder=1&amp;isWeibo=1&amp;isFans=1&amp;uid=6493535909&amp;verifier=9fc51c8e&amp;dpc=1"></iframe>
+
+<script type="text/javascript">document.write('<iframe width="1024" height="239" frameborder="0" scrolling="no" src="http://widget.weibo.com/relationship/bulkfollow.php?language=zh_cn&uids=7214188677,3965220781&wide=1&color=000000,000000,0082CB,FFFFFF&showtitle=1&showinfo=1&sense=0&verified=1&count=6&refer='+encodeURIComponent(location.href)+'&dpc=1"></iframe>')</script> 
 </p>
-
-![](http://nas.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=X6VcrKQG)                      
-
------------------------------------------------------------------------------------------------------------------------------------
-* [李英爱影视剧在线观看地址长期整理(请先保持浏览器的微博登录状态)](https://weibo.com/6493535909/Jh7W9exVL)                                 
-* [李英爱影视剧下载或在线地址长期整理](./DL.md)            
-
------------------------------------------------------------------------------------------------------------------------------------     
-**李英爱的时光线**（以下链接以外链贴吧、微博页面为主，强烈建议PC浏览器访问，并且提前登录且保持好贴吧、微博的登录状态）     
-
-[暂时未知日期资讯](./timeline/unknowndate.md)             
-[2021](./timeline/2021.md) [2020](./timeline/2020.md) [2019](./timeline/2019.md) [2018](./timeline/2018.md) [2017](./timeline/2017.md) [2016](./timeline/2016.md) [2015](./timeline/2015.md) [2014](./timeline/2014.md) [2013](./timeline/2013.md) [2012](./timeline/2012.md) [2011](./timeline/2011.md)
-[2010](./timeline/2010.md) [2009](./timeline/2009.md) [2008](./timeline/2008.md) [2007](./timeline/2007.md) [2006](./timeline/2006.md)
-[2005](./timeline/2005.md) [2004](./timeline/2004.md) [2003](./timeline/2003.md) [2002](./timeline/2002.md) [2001](./timeline/2001.md)
-[2000](./timeline/2000.md) [1999](./timeline/1999.md) [1998](./timeline/1998.md) [1997](./timeline/1997.md) [1996](./timeline/1996.md) [1995](./timeline/1995.md) [1994](./timeline/1994.md) [1993](./timeline/1993.md) [1992](./timeline/1992.md) [1991](./timeline/1991.md)   
-
----------------------------------------------------------------------------------------------------------------------------------      
-**李英爱官方账号**      
-
-* instagram：[leeyoungae0824](https://www.instagram.com/Leeyoungae0824)           
-* 微博：[李英爱LeeYoungAe](https://weibo.com/u/7214188677)           
-* 小红书：[李英爱Lee YoungAe](https://www.xiaohongshu.com/user/profile/5ba9d9ebabb1890001b20257)        
-* 李英爱自有品牌官网：[LEE YOUNG AE pure botanic skincare](http://www.lya.co.kr/)             
-
----------------------------------------------------------------------------------------------------------------------------------       
-**李英爱粉丝团资讯发布**（微博下，发布的资讯最丰富，爱迷互动最多）                         
-
-* 关注微博：[李英爱资讯台](https://weibo.com/leeyoungaeclub)                 
-* 关注Bilibili：[李英爱资讯台](http://space.bilibili.com/45084449)                          
-* 关注微信公众号：时越之爱          
-* 关注贴吧：[李英爱吧](https://tieba.baidu.com/f?kw=%E6%9D%8E%E8%8B%B1%E7%88%B1)           
-
----------------------------------------------------------------------------------------------------------------------------------
-**李英爱网络参考资讯**                              
-
-* [豆瓣-李英爱](https://movie.douban.com/celebrity/1004933/)                    
-* [“时越之爱”存档资料](https://weibo.com/ttarticle/p/show?id=2309404382821119581495)            
-* [李英爱的Naver百科](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%9D%B4%EC%98%81%EC%95%A0&os=94803&ie=utf8&key=PeopleService)          
-* [李英爱的百度百科](https://baike.baidu.com/item/%E6%9D%8E%E8%8B%B1%E7%88%B1/160659?fr=aladdin)            
-* [时光网-李英爱](http://people.mtime.com/960791/)          
-* [IMDb-李英爱](https://www.imdb.com/name/nm0498472/)            
-* [daum电影-李英爱](https://movie.daum.net/person/main?personId=563)              
-
---------------------------------------------------------------------------------------------------------------------------------
-**李英爱粉丝群**（本页面下的动态失效、页面错误、内容有误、建议添加动态等都可以加群反馈，只是闲聊的也可以加群）            
-
-* [微博群，李英爱粉丝1群（以交流为主）](http://t.cn/AiHJwHKv)               
-* [QQ群，847088042，李英爱粉丝1群(以上传分享文件为主) ](https://shang.qq.com/wpa/qunwpa?idkey=9f97d83971bece998d8f73581ece4b1eb9b1d944ca60e969a6dc02a3499c5c4a)       
---------------------------------------------------------------------------------------------------------------------------------
-<video width="100%" height="400" controls>
-       <source src="http://op.sbb.zone:8889/index.php?share/fileProxy&user=1&sid=qUIt9XGw&path=%7BuserShare%7D%3A1%2F%E3%80%8A%E8%AF%B7%E5%AF%BB%E6%89%BE%E6%88%91%E3%80%8B.mp4" type="video/mp4">
-</video>
-
-↑李英爱时隔14年重返大银幕作品《请寻找我》。影片是一部犯罪惊悚题材新片，由金承佑执导，李英爱将在片中饰演一位为寻找走失的残障儿子辛苦奔波的母亲。本片于2019年11月27日韩国首映。          
-
-        
-                       
-
+<!-- /wp:paragraph -->
