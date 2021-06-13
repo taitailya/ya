@@ -66,7 +66,11 @@
 <!-- wp:paragraph -->
 <p>
 <iframe width="100%" height="800" class="share_self" frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&amp;width=0&amp;height=800&amp;fansRow=7&amp;ptype=1&amp;speed=0&amp;skin=10&amp;isTitle=1&amp;noborder=1&amp;isWeibo=1&amp;isFans=1&amp;uid=6493535909&amp;verifier=9fc51c8e&amp;dpc=1"></iframe>
+</p>
+<!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>
 <script type="text/javascript">document.write('<iframe width="1024" height="239" frameborder="0" scrolling="no" src="http://widget.weibo.com/relationship/bulkfollow.php?language=zh_cn&uids=7214188677,3965220781&wide=1&color=000000,000000,0082CB,FFFFFF&showtitle=1&showinfo=1&sense=0&verified=1&count=6&refer='+encodeURIComponent(location.href)+'&dpc=1"></iframe>')</script> 
 </p>
 <!-- /wp:paragraph -->
